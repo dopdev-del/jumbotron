@@ -4,9 +4,12 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transition: color 0.20s;
  
     
 }
+
+
 
 
 h5{
@@ -21,6 +24,8 @@ h1 {
 
 h1:hover {
     color: blueviolet;
+    text-decoration: underline;
+
 }
 
 p{
@@ -29,4 +34,5 @@ p{
 }
 p:hover {
     color: blue;
+    text-decoration: underline;
 }
