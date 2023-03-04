@@ -4,9 +4,29 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+ 
     
 }
+
+
 h5{
     text-align: center;
     
+}
+
+h1 {
+    background-color: whitesmoke;
+    transition: color 0.20s;
+}
+
+h1:hover {
+    color: blueviolet;
+}
+
+p{
+    background-color: whitesmoke;
+    transition: color 0.20s;
+}
+p:hover {
+    color: blue;
 }
