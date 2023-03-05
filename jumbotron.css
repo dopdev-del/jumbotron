@@ -9,6 +9,10 @@
     
 }
 
+#cursos{
+
+    text-transform: capitalize;
+}
 
 
 
@@ -24,7 +28,6 @@ h1 {
 
 h1:hover {
     color: blueviolet;
-    text-decoration: underline;
 
 }
 
@@ -34,5 +37,4 @@ p{
 }
 p:hover {
     color: blue;
-    text-decoration: underline;
 }
